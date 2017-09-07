@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pullrefresh/pullrefresh.iml" filepath="$PROJECT_DIR$/pullrefresh/pullrefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wMClientSdk/wMClientSdk.iml" filepath="$PROJECT_DIR$/wMClientSdk/wMClientSdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yundd.iml" filepath="$PROJECT_DIR$/yundd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yundd/yundd-yundd.iml" filepath="$PROJECT_DIR$/yundd/yundd-yundd.iml" />
+    </modules>
+  </component>
+</project>

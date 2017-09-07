@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wmplayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wMClientSdk/libs/wmplayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

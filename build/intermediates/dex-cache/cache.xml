@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_23682183907d6a435898e1eace35797afc1dd767\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_b8a2a26036b558d6f57e118f9c9e79a8feb6132a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\build\intermediates\exploded-aar\yundd\wMClientSdk\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7d8298e6e00987488c80dacf599e6e3b0362f8aa">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\yundd-wMClientSdk-unspecified_5d08730011c125d1fc03bf83203435d7b27f2be0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_b8a2a26036b558d6f57e118f9c9e79a8feb6132a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\build\intermediates\exploded-aar\yundd\wMClientSdk\unspecified\jars\libs\wmplayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="62cfaf6c73f7c8cb7f2a2de7f230d9b4839aeb75">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\wmplayer_7693200bddc55f9aa1d64749051206dadcdd25f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.4.0_82b1777072eab0d7f7a4c08c09b62b6bf5da4626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\05b1e86cd910854f3e277c973d3e34c42abe76d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8c56ca1ca9a1f839ea98607c2cb052e935a04cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa26eeeb8a01a04fc712bafd79dc3a2ee8a9c7db">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c893c5fb3cdf018058ec5e43cc842bed8bbe424b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\33fb8664fef526519cf890d61b0fbeefe57ad015\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea728fcdb8a06c9fbe3944304f3e742dbb4ad424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.13_e8a32e5b5c120ae74daafc5d7d6dfe1b6fdcee12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\wMClientSdk\build\intermediates\bundles\default\libs\IPlaySDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56337a705d4851275e1b8125b4e4ed2480776d72">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\8\IPlaySDK_f40847ca75c131c814d680c050037baf884d3941\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.13_e8a32e5b5c120ae74daafc5d7d6dfe1b6fdcee12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_b8a2a26036b558d6f57e118f9c9e79a8feb6132a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d55626ddcb4159688c6f4887a4a4437c358b3453\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_c1b4f3e42ce6747f5395a0fa4dd55224823abdaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.1_032b1d2117e56d98e15716cdfc48889f5c1fd244\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v7-recyclerview_164d3528432cfc2f6dcb64af33ad435f638f1fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\build\intermediates\exploded-aar\yundd\pullrefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4dfbfbf50be0f6d559aa7ec71ac2db8acfe92efe">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\yundd-pullrefresh-unspecified_19d95011961cbf5115d24c5786e4b516b5de2098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\gson-2.2.4_f1bedcf6ff779f27cdf1a9706b7b0515c6c73bc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\open_sdk_r5756.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\open_sdk_r5756_2848e9a8ec672c853e1d9970d6294ac9f2d41834.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3953a36052f4c98a49d69ead3a56b4212789ca31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.7.0_48742b7d6c2b61d6fd28bd5bed8278de3ac88a94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0381552125416a29396b30d8f9f8656d89cbd8fa">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c893c5fb3cdf018058ec5e43cc842bed8bbe424b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\open_sdk_r5756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5756_2848e9a8ec672c853e1d9970d6294ac9f2d41834\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\wMClientSdk\build\intermediates\bundles\default\libs\IntercomSdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12629b365d9ec0698954961fecd0dbab3a1cc291">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\8\IntercomSdk_7760fa420590661383bc77ff0eb30e215203158b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\build\intermediates\exploded-aar\yundd\wMClientSdk\unspecified\jars\libs\PlayerSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d95f72ec43152af178407150d9590b9f73785242">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\PlayerSDK_a5222e81fbbf07ed2419a888f3789db3004271f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\open_sdk_r5756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5756_2848e9a8ec672c853e1d9970d6294ac9f2d41834\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\wMClientSdk\build\intermediates\bundles\default\libs\IntercomSdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12629b365d9ec0698954961fecd0dbab3a1cc291">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\8\IntercomSdk_7760fa420590661383bc77ff0eb30e215203158b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\build\intermediates\exploded-aar\yundd\wMClientSdk\unspecified\jars\libs\IPlaySDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="56337a705d4851275e1b8125b4e4ed2480776d72">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\IPlaySDK_2468718f0f917ee1c2568a005303688b3f090bf9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\a21e5118f4fc6159d69ccbcd76f6e441d1db2ffb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beb952d2afcbaa163aecd988a37d1e6fcf478b3a">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3aa9507c248a694c81894c049d4707b66b0d9be3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_5d65a01e07a5fb83c03b889741d717bc6442bb57\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\build\intermediates\exploded-aar\yundd\wMClientSdk\unspecified\jars\libs\IntercomSdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="12629b365d9ec0698954961fecd0dbab3a1cc291">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\IntercomSdk_91f79d7c310171373c89a08831bc5fdb9f6dc28f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\okio-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\okio-1.4.0_f91f319a1f19299b95744ea233aa5367f180db47.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.2\b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd\httpcore-4.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\httpcore-4.4.2_ebced7fd1bf9ed1df7e934364d5d657e5f3935ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\wMClientSdk\build\intermediates\bundles\default\libs\H264Decoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="782b22393a7fc1c54ccf5f68e954994b27ebee08">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\8\H264Decoder_dabd537f6095b10df630c913f4fbe65ad9073abd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\build\intermediates\exploded-aar\yundd\wMClientSdk\unspecified\jars\libs\H264Decoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="782b22393a7fc1c54ccf5f68e954994b27ebee08">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\H264Decoder_6b28322d1b3354b4481ab3df173d10a605a508a6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.4.0_f91f319a1f19299b95744ea233aa5367f180db47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.1.0\7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5\converter-scalars-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\converter-scalars-2.1.0_f5920d01211ed20b03dd2977fe20d8ac1a753675\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\wMClientSdk\build\intermediates\bundles\default\libs\PlayerSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d95f72ec43152af178407150d9590b9f73785242">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\8\PlayerSDK_76479475f9767b0e9cb5d91bb9a5805e97f94a04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.7.0_48742b7d6c2b61d6fd28bd5bed8278de3ac88a94\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\as\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\support-v4-19.1.0_f0d8e327cd47ec89bb07bc3a47093a8dcfec9a55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\xcl-charts.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e38223f37f67abd86cbdad2013e8dc49457393ec">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\xcl-charts_691460b6f01b79d7ba4ea5eb627c3d71212648c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\wMClientSdk\build\intermediates\bundles\default\libs\wmplayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="62cfaf6c73f7c8cb7f2a2de7f230d9b4839aeb75">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\8\wmplayer_738d5828e2a1bae516f52ac2591a24abce5feefa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\313596407f9671850f1fb17bdd7c0fe9c0f78f25\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f037a58d8267beba65020b1fdf6679ef078e01d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.1\feab46062803513d6a8307c74b0084265855de1a\logging-interceptor-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="feab46062803513d6a8307c74b0084265855de1a">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.8.1_35f89f41343a910ee7b1e50c7f9eddc874cc0a37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.2\b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd\httpcore-4.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\httpcore-4.4.2_ebced7fd1bf9ed1df7e934364d5d657e5f3935ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v7-recyclerview_164d3528432cfc2f6dcb64af33ad435f638f1fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\wMClientSdk\build\intermediates\bundles\default\libs\H264Decoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="782b22393a7fc1c54ccf5f68e954994b27ebee08">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\8\H264Decoder_dabd537f6095b10df630c913f4fbe65ad9073abd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\libammsdk_5d65a01e07a5fb83c03b889741d717bc6442bb57.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\android-async-http-1.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.4_7549ac3bae658307f8c139d82a61a640c775ce13\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\glide-3.7.0_48742b7d6c2b61d6fd28bd5bed8278de3ac88a94.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3953a36052f4c98a49d69ead3a56b4212789ca31\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview_164d3528432cfc2f6dcb64af33ad435f638f1fd6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.5_74dd2eeb7003a467412f92d8accbdaab9a47a4fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_5d65a01e07a5fb83c03b889741d717bc6442bb57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.4.0_82b1777072eab0d7f7a4c08c09b62b6bf5da4626\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\xcl-charts.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e38223f37f67abd86cbdad2013e8dc49457393ec">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\xcl-charts_691460b6f01b79d7ba4ea5eb627c3d71212648c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\locSDK_6.13_e8a32e5b5c120ae74daafc5d7d6dfe1b6fdcee12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\wMClientSdk\build\intermediates\bundles\default\libs\wmplayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62cfaf6c73f7c8cb7f2a2de7f230d9b4839aeb75">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\8\wmplayer_738d5828e2a1bae516f52ac2591a24abce5feefa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\isoviewer-1.0-RC-27.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f374d6079dfe0fcabe619a8b18337faefd4d0b0c">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\isoviewer-1.0-RC-27_c3588767cb141713b107d2e04e1d8222607625f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\wMClientSdk\build\intermediates\bundles\default\libs\PlayerSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d95f72ec43152af178407150d9590b9f73785242">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\8\PlayerSDK_76479475f9767b0e9cb5d91bb9a5805e97f94a04\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\android-async-http-1.4.4_7549ac3bae658307f8c139d82a61a640c775ce13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_caec5da20b3c7117c5123d0e770cb93692e52a27\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\okhttp-2.4.0_82b1777072eab0d7f7a4c08c09b62b6bf5da4626.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\wMClientSdk\build\intermediates\bundles\default\libs\IPlaySDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56337a705d4851275e1b8125b4e4ed2480776d72">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\8\IPlaySDK_f40847ca75c131c814d680c050037baf884d3941\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\android-async-http-1.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.4_7549ac3bae658307f8c139d82a61a640c775ce13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_23682183907d6a435898e1eace35797afc1dd767\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d55626ddcb4159688c6f4887a4a4437c358b3453\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ea21ef43ec499c59cbccfbf0736600c655a6b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\isoviewer-1.0-RC-27.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f374d6079dfe0fcabe619a8b18337faefd4d0b0c">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\isoviewer-1.0-RC-27_c3588767cb141713b107d2e04e1d8222607625f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2_caec5da20b3c7117c5123d0e770cb93692e52a27.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_f63c7ab08dbed3c34e0fe0b9b1a691240ffa1bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\xcl-charts.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e38223f37f67abd86cbdad2013e8dc49457393ec">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\xcl-charts_691460b6f01b79d7ba4ea5eb627c3d71212648c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="I:\asProj\yundd\yundd\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\pre-dexed\debug\picasso-2.5.2_23682183907d6a435898e1eace35797afc1dd767.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\isoviewer-1.0-RC-27.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f374d6079dfe0fcabe619a8b18337faefd4d0b0c">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\isoviewer-1.0-RC-27_c3588767cb141713b107d2e04e1d8222607625f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_caec5da20b3c7117c5123d0e770cb93692e52a27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\asProj\yundd\yundd\libs\okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="I:\asProj\yundd\yundd\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.4.0_f91f319a1f19299b95744ea233aa5367f180db47\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Thu Sep 07 14:06:24 GMT+08:00 2017
+base.0=I\:\\asProj\\yundd\\yundd\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3953a36052f4c98a49d69ead3a56b4212789ca31
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=I\:\\asProj\\yundd\\yundd\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c893c5fb3cdf018058ec5e43cc842bed8bbe424b\\classes.dex
+base.1=I\:\\asProj\\yundd\\yundd\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c893c5fb3cdf018058ec5e43cc842bed8bbe424b
+file.0=I\:\\asProj\\yundd\\yundd\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3953a36052f4c98a49d69ead3a56b4212789ca31\\classes.dex

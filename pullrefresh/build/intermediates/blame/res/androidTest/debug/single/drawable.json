@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "I:\\asProj\\yundd\\pullrefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progressbar_circle.xml",
+        "source": "I:\\asProj\\yundd\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\progressbar_circle.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\pullrefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "I:\\asProj\\yundd\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\pullrefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "I:\\asProj\\yundd\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    }
+]

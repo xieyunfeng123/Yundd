@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IntercomSdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wMClientSdk/libs/IntercomSdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

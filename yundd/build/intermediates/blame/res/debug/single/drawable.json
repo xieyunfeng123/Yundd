@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_changeimag_circle.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\radio_changeimag_circle.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\colors_radio.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\colors_radio.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_selector.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\item_text_color.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\item_text_color.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\item_bg.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\item_bg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout_bg.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\linearlayout_bg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_bg.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "I:\\asProj\\yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_linearlayout_pressed.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\gridview_linearlayout_pressed.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_suface.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\textview_suface.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_btn.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\toggle_btn.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\item_nextbg.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\item_nextbg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_left_selector.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\report_select_no.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\report_select_no.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_changeimag_backoff.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\radio_changeimag_backoff.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\time_button_bg_pressed.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\time_button_bg_pressed.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_me.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\radio_me.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_right_selector.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\text_register_pressed.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\text_register_pressed.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\check_canlook.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\check_canlook.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_circle.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\progressbar_circle.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "I:\\asProj\\yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_bg_dark.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\login_button_bg_dark.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\problem_handle_pressed_bg.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\problem_handle_pressed_bg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_suface_no.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\textview_suface_no.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\check_canlook_item.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\check_canlook_item.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_selector.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_num_selector.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\checkbox_num_selector.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\item_textview_checked.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\item_textview_checked.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_bg.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\login_button_bg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\problem_handle_bg.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\problem_handle_bg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\my_bar.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\my_bar.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_time.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\bg_time.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\report_select_sure.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\report_select_sure.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_home.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\radio_home.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\video_img_face.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\video_img_face.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\alertdialog_single_selector.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\search_bar_edit_selector.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\search_bar_edit_selector.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_changeimag_paint.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\radio_changeimag_paint.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\login_button.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_changeimag_gohead.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\radio_changeimag_gohead.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\detal_chexbox.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\detal_chexbox.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlaytou_click.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\linearlaytou_click.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_linearlayout.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\gridview_linearlayout.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\message_oval.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\message_oval.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_manager.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\radio_manager.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\time_button_bg.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\time_button_bg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\text_register.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\text_register.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_horizontal.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\seekbar_horizontal.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_factory.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\drawable\\radio_factory.xml"
+    }
+]

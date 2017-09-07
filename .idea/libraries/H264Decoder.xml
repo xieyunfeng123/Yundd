@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="H264Decoder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wMClientSdk/libs/H264Decoder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

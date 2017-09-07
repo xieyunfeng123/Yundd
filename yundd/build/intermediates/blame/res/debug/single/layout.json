@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual_inspection.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_manual_inspection.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\piechartview.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\piechartview.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_tag.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_select_tag.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\common_video_view.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\common_video_view.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callpolice.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_callpolice.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "I:\\asProj\\yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_list.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_list.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_load.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_load.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videoedit.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_videoedit.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_factory.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_select_factory.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_problem_handle.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_problem_handle.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\expandview.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\expandview.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_all.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_msg_all.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_image.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_change_image.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual_video.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_manual_video.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_sendtome.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_problem_sendtome.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_problem.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_new_problem.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_manger.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_gridview_manger.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip_setting.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_ip_setting.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addpic.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_addpic.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form_select_type.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_form_select_type.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_ip.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_ip.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual_detail.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_manual_detail.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_deletevideo.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_deletevideo.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playback.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_playback.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_problem_list.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_problem_list.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_fatory.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_fatory.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_report_more_list.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_report_more_list.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_expand_dev.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_expand_dev.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_factory.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_factory.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_look_people.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_look_people.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_previewpic.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_previewpic.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vedio_factory.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_vedio_factory.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\top_layout.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\top_layout.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vedio_action.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_vedio_action.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_nexttagitem.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_listview_nexttagitem.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_factory.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_factory.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_action.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_problem_action.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_msg_lilst.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_msg_lilst.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_piclist.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_piclist.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_problem_detail.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_problem_detail.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_load.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_load.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creat_problem.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_creat_problem.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_noload.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_noload.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_allload.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_allload.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_popup_stream.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_popup_stream.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_msg.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_setting_msg.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_edit.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_video_edit.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_requeset_vedio.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_requeset_vedio.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_vedio.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_vedio.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_delete.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_video_delete.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\gridpasswordview_textview.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\gridpasswordview_textview.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\layout_popu_selectfactory.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\layout_popu_selectfactory.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_img.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_problem_img.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_time_line.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_time_line.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\mybar.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\mybar.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_playback.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_playback.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registernum.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_registernum.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_basic_function.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_basic_function.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_img.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_detail_img.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_header.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_list_header.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\progressing_dialog.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\progressing_dialog.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appproblem.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_appproblem.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridveiw.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_gridveiw.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\piechart_item.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\piechart_item.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_manual_list.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_manual_list.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_problem_tome.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_problem_tome.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\layout_problemtype_popu.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\layout_problemtype_popu.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_timeline.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_timeline.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_img_list.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_problem_img_list.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_form_dev.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_form_dev.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_status.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_problem_status.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_send_pic.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_send_pic.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_dealman.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_select_dealman.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_reportform.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_reportform.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\view_actionsheet.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\view_actionsheet.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "I:\\asProj\\yundd\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_adapter.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_adapter.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\view_alertdialog.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\view_alertdialog.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_problem_details.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_problem_details.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_setting.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_image_setting.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mangager.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_mangager.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_tagitem.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_listview_tagitem.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_import_face_img.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_import_face_img.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_select_form_type.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_select_form_type.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_changepsd.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_changepsd.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mediaplay.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_mediaplay.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_load.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_video_load.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_load_proress.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_video_load_proress.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_more_report.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_more_report.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_pic.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_all_pic.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_report_more_gridview.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_report_more_gridview.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_popu_factory.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_popu_factory.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imgview.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_imgview.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_detal_listview.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_detal_listview.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\date_alert_dialog.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\date_alert_dialog.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\empty_layout.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\empty_layout.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verif_psd.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_verif_psd.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_pic_gridview.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_pic_gridview.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_verification.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selecttag.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_selecttag.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_problem_list.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_problem_list.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_list.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_msg_list.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_more.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_report_more.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\menu_activity.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\menu_activity.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_add_pic.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_gridview_add_pic.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_tag.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_listview_tag.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\gridpasswordview_divider.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\gridpasswordview_divider.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\gridpasswordview.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\gridpasswordview.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reportfrom.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_reportfrom.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_search.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_search.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_ios_edit.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_ios_edit.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_setting.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_video_setting.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patrol_detail.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_patrol_detail.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_piclist.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_piclist.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\vedio_playview.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\vedio_playview.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_patrol_list.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_patrol_list.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_canlook.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_canlook.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_fragment_factory.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_fragment_factory.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_manual_dev.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_manual_dev.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_copyman.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\activity_select_copyman.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_expand_subfactory.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_expand_subfactory.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\item_vedio_problem.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\item_vedio_problem.xml"
+    },
+    {
+        "merged": "I:\\asProj\\yundd\\yundd\\build\\intermediates\\res\\merged\\debug\\layout\\linearlayout_bottom.xml",
+        "source": "I:\\asProj\\yundd\\yundd\\src\\main\\res\\layout\\linearlayout_bottom.xml"
+    }
+]
