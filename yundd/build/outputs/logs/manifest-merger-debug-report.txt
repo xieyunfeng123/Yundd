@@ -17,12 +17,12 @@ ADDED from I:\asProj\yundd\yundd\src\main\AndroidManifest.xml:2:1-756:12
 		ADDED from I:\asProj\yundd\yundd\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from I:\asProj\yundd\yundd\src\main\AndroidManifest.xml:11:5-13:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\05b1e86cd910854f3e277c973d3e34c42abe76d7\output\AndroidManifest.xml:18:5-42
 MERGED from [yundd:pullrefresh:unspecified] I:\asProj\yundd\pullrefresh\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:40
 MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Administrator\.android\build-cache\313596407f9671850f1fb17bdd7c0fe9c0f78f25\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Administrator\.android\build-cache\d55626ddcb4159688c6f4887a4a4437c358b3453\output\AndroidManifest.xml:20:5-43
 MERGED from [io.reactivex:rxandroid:1.2.0] C:\Users\Administrator\.android\build-cache\33fb8664fef526519cf890d61b0fbeefe57ad015\output\AndroidManifest.xml:19:5-43
 MERGED from [com.github.zhaokaiqiang.klog:library:1.6.0] C:\Users\Administrator\.android\build-cache\a21e5118f4fc6159d69ccbcd76f6e441d1db2ffb\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\05b1e86cd910854f3e277c973d3e34c42abe76d7\output\AndroidManifest.xml:18:5-42
 	android:targetSdkVersion
 		ADDED from I:\asProj\yundd\yundd\src\main\AndroidManifest.xml:13:9-38
 		INJECTED from I:\asProj\yundd\yundd\src\main\AndroidManifest.xml
